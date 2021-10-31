@@ -1,6 +1,18 @@
 # pandas_datareader
 Get Stock Price from "Stooq"
 
+## How to Use
+
+・Get Stock Price Data(Input Date: YYYYMMDD)
+```
+python downloadStooq.py [Start Date] [End Date] -b [Stock Brand] -s [Save CSV Path] 
+```
+
+・Create Graph(Input Date: YYYYMMDD)
+```
+python createGraph.py [CSV Path] [Start Date] [End Date] -b [Stock Brand] -s [Save Image Path] 
+```
+
 ## Example of CSV to Get
 ```
 Date,Open,High,Low,Close,Volume
@@ -10,3 +22,8 @@ Date,Open,High,Low,Close,Volume
 2021-10-26,1024.69,1094.94,1001.44,1018.43,62414968
 ...
 ```
+
+## Create Graph Using CSV Data
+Source is "createGraph.py"
+
+![graph](https://user-images.githubusercontent.com/93382642/139573722-d2cb6256-447c-4237-8980-a57dc0ff1ca6.png)
