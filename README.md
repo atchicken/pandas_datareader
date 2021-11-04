@@ -23,7 +23,21 @@ Date,Open,High,Low,Close,Volume
 ...
 ```
 
-## Create Graph Using CSV Data
-Source is "createGraph.py"
+## Details(Japanese)
+
+・Blog
+
+https://atchicken.com/stooq_download/
+
+・Qiita
+
+https://qiita.com/atchicken/items/f3532f01eb409105dde3
+
+
+
+## Results
+```bash:bash
+python createGraph.py
+```
 
 ![graph](https://user-images.githubusercontent.com/93382642/139573722-d2cb6256-447c-4237-8980-a57dc0ff1ca6.png)
