@@ -25,13 +25,9 @@ Date,Open,High,Low,Close,Volume
 
 ## Details(Japanese)
 
-・Blog
+・[Blog](https://atchicken.com/stooq_download/)
 
-https://atchicken.com/stooq_download/
-
-・Qiita
-
-https://qiita.com/atchicken/items/f3532f01eb409105dde3
+・[Qiita](https://qiita.com/atchicken/items/f3532f01eb409105dde3)
 
 
 
