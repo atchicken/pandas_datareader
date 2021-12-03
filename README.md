@@ -4,7 +4,7 @@ Get Stock Price from "Stooq"
 ## How to Use
 
 ・Get Stock Price Data(Input Date: YYYYMMDD)
-```
+```bash:bash
 python downloadStooq.py [Start Date] [End Date] -b [Stock Brand] -s [Save CSV Path] 
 ```
 
@@ -23,11 +23,10 @@ Date,Open,High,Low,Close,Volume
 ...
 ```
 
-## Details(Japanese)
+## Detailed Explanation(Japanese)
 
 ・[Blog](https://atchicken.com/stooq_download/)
 
-・[Qiita](https://qiita.com/atchicken/items/f3532f01eb409105dde3)
 
 
 
